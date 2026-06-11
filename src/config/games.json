@@ -1,0 +1,20 @@
+[
+  {
+    "title": "TextEdit",
+    "command": "/usr/bin/open",
+    "args": ["-a", "TextEdit"],
+    "cwd": ""
+  },
+  {
+    "title": "Calculator",
+    "command": "/usr/bin/open",
+    "args": ["-a", "Calculator"],
+    "cwd": ""
+  },
+  {
+    "title": "Terminal",
+    "command": "/usr/bin/open",
+    "args": ["-a", "Terminal"],
+    "cwd": ""
+  }
+]
